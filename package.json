@@ -1,0 +1,18 @@
+{
+  "name": "hello-matterjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jian Yuan",
+  "license": "ISC",
+  "dependencies": {
+    "matter-js": "^0.18.0"
+  },
+  "devDependencies": {
+    "@types/matter-js": "^0.18.2"
+  }
+}
